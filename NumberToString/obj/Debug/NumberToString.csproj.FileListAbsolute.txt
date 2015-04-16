@@ -1,0 +1,5 @@
+C:\Users\ebattulga\Documents\Visual Studio 2013\Projects\LongToMongolString\NumberToString\bin\Debug\NumberToString.dll
+C:\Users\ebattulga\Documents\Visual Studio 2013\Projects\LongToMongolString\NumberToString\bin\Debug\NumberToString.pdb
+C:\Users\ebattulga\Documents\Visual Studio 2013\Projects\LongToMongolString\NumberToString\obj\Debug\NumberToString.csprojResolveAssemblyReference.cache
+C:\Users\ebattulga\Documents\Visual Studio 2013\Projects\LongToMongolString\NumberToString\obj\Debug\NumberToString.dll
+C:\Users\ebattulga\Documents\Visual Studio 2013\Projects\LongToMongolString\NumberToString\obj\Debug\NumberToString.pdb

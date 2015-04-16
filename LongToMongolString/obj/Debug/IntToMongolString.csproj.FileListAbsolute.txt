@@ -1,0 +1,6 @@
+C:\Users\ebattulga\AppData\Local\Temporary Projects\IntToMongolString\bin\Debug\IntToMongolString.exe.config
+C:\Users\ebattulga\AppData\Local\Temporary Projects\IntToMongolString\bin\Debug\IntToMongolString.exe
+C:\Users\ebattulga\AppData\Local\Temporary Projects\IntToMongolString\bin\Debug\IntToMongolString.pdb
+C:\Users\ebattulga\AppData\Local\Temporary Projects\IntToMongolString\obj\Debug\IntToMongolString.csprojResolveAssemblyReference.cache
+C:\Users\ebattulga\AppData\Local\Temporary Projects\IntToMongolString\obj\Debug\IntToMongolString.exe
+C:\Users\ebattulga\AppData\Local\Temporary Projects\IntToMongolString\obj\Debug\IntToMongolString.pdb

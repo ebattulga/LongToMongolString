@@ -1,0 +1,7 @@
+C:\Users\ebattulga\Documents\Visual Studio 2013\Projects\LongToMongolString\LongToMongolString.Test\bin\Debug\LongToMongolString.Test.dll
+C:\Users\ebattulga\Documents\Visual Studio 2013\Projects\LongToMongolString\LongToMongolString.Test\bin\Debug\LongToMongolString.Test.pdb
+C:\Users\ebattulga\Documents\Visual Studio 2013\Projects\LongToMongolString\LongToMongolString.Test\obj\Debug\LongToMongolString.Test.csprojResolveAssemblyReference.cache
+C:\Users\ebattulga\Documents\Visual Studio 2013\Projects\LongToMongolString\LongToMongolString.Test\obj\Debug\LongToMongolString.Test.dll
+C:\Users\ebattulga\Documents\Visual Studio 2013\Projects\LongToMongolString\LongToMongolString.Test\obj\Debug\LongToMongolString.Test.pdb
+C:\Users\ebattulga\Documents\Visual Studio 2013\Projects\LongToMongolString\LongToMongolString.Test\bin\Debug\NumberToString.dll
+C:\Users\ebattulga\Documents\Visual Studio 2013\Projects\LongToMongolString\LongToMongolString.Test\bin\Debug\NumberToString.pdb
