@@ -12,6 +12,6 @@ Web API:
 
     {"Result":"хоёр мянга хорь","Number":"2020","isSuccess":true}
 
-Nuget:
+Nuget: [NumberToStringMon](https://www.nuget.org/packages/NumberToStringMon/)
 
     Install-Package NumberToStringMon
