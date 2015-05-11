@@ -114,5 +114,23 @@ namespace LongToMongolString.Test
             NumberConverter con = new NumberConverter();
             Assert.AreEqual(con.convert(101011), "нэг зуун нэг мянга арван нэг");
         }
+
+        [TestMethod]
+        public void testMulti()
+        {
+            NumberConverter con = new NumberConverter();
+            for (int i = 10000; i < 100000; i++)
+            {
+                con.convert(i);
+            }
+            Assert.AreEqual(con.convert(101011), "нэг зуун нэг мянга арван нэг");
+        }
+
+        [TestMethod]
+        public void test16()
+        {
+            NumberConverter con = new NumberConverter();
+            Assert.AreEqual(con.convert(0), "тэг");
+        }
     }
 }

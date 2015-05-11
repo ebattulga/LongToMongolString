@@ -15,7 +15,7 @@ namespace NumberToString
         public NumberConverter()
         {
             n = new List<WordNumber>();
-            n.Add(new WordNumber(0) { Name0 = "", Name10 = "", NameMiddle = "" });
+            n.Add(new WordNumber(0) { Name0 = "", Name10 = "", NameMiddle = "",Name10End="" });
             n.Add(new WordNumber(1) { Name0 = "нэг", Name10 = "арван", NameMiddle = "нэгэн", Name10End = "арав", Name3 = "нэг" });
             n.Add(new WordNumber(2) { Name0 = "хоёр", Name10 = "хорин", NameMiddle = "хоёр", Name10End = "хорь", Name3 = "хоёр" });
             n.Add(new WordNumber(3) { Name0 = "гурав", Name10 = "гучин", NameMiddle = "гурван", Name10End = "гуч", Name3 = "гурван" });
@@ -35,6 +35,11 @@ namespace NumberToString
             int index = 1;
             Boolean isFirst = true;
             Boolean levelFirst = true;
+            if (number == 0)
+            {
+                return "тэг";
+            }
+
             foreach (var item in str.Reverse())
             {
                 int i = Convert.ToInt32(item.ToString());
@@ -63,6 +68,7 @@ namespace NumberToString
             }
             return sb.ToString().Trim();
         }
+        
     }
 
     public class WordNumber
