@@ -9,10 +9,10 @@
 Дуудах: 
 ```cs
 var con=new NumberToString.NumberConverter();
-string text=con.convert(89,true);//Төгсгөл болгож дуусгах. Ж.ш ... наяан ёс
+string text=con.convert(89,true);//Төгсгөл болгож дуусгах. Ж.ш ... наяан ес
 ```
 
 Араас нь үг залгах гэж байгаа бол төгсгөлгүй дуудах
 ```cs
-string text=con.convert(89,false);//Төгсгөлгүй. наяан ёсөн  ~ төгрөг
+string text=con.convert(89,false);//Төгсгөлгүй. наяан есөн  ~ төгрөг
 ```
