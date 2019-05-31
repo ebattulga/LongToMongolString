@@ -2,16 +2,17 @@
 
 **Ашиглах заавар:** 
 
-Web API: 
-[http://num2mglstr.azurewebsites.net/](http://num2mglstr.azurewebsites.net)
-
-Ашиглахдаа: 
-[http://num2mglstr.azurewebsites.net/api/convert/2020](http://num2mglstr.azurewebsites.net/api/convert/2020)
-
-Үр дүн /Json/:
-
-    {"Result":"хоёр мянга хорь","Number":"2020","isSuccess":true}
-
 Nuget: [View](https://www.nuget.org/packages/NumberToStringMon/)
 
     Install-Package NumberToStringMon
+    
+Дуудах: 
+```cs
+var con=new NumberToString.NumberConverter();
+string text=con.convert(123456789,true);//Төгсгөл болгож дуусгах. Ж.ш ... наяан ёс
+```
+
+Араас нь үг залгах гэж байгаа бол төгсгөлгүй дуудах
+```cs
+string text=con.convert(123456789,true);//Төгсгөлгүй наяан ёсөн
+```
